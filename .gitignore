@@ -1,0 +1,7 @@
+*.ipynb
+*.mp3
+*.apkg
+
+downloaded_data/
+export/
+__pycache__/

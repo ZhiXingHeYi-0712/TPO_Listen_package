@@ -1,0 +1,30 @@
+#card-index {
+    font-size: 28px;
+}
+
+#en_text {
+    font-size: 36px;
+    font-family: Arial;
+}
+
+#zh_text {
+    color: #99999900;
+    font-size: 36px;
+    font-family: Arial;
+}
+
+#zh_text:hover {
+    color: black;
+}
+
+.textarea-container {
+    width: 95vw;
+    height: 50vh;
+}
+
+#input-text, #dictation-text {
+    width: 95vw;
+    height: 50vh;
+    font-size: 24px;
+    font-family: Arial;
+}
